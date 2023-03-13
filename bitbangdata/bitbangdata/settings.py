@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wz5m!1(c93r_-yp47fu7zjsk!2#dlh!qai^xsg9iu8y@sj19-l
 DEBUG = False
 
 ALLOWED_HOSTS = ['data.bitbang.ch']
-
+#Test
 
 # Application definition
 
